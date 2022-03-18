@@ -1,0 +1,14 @@
+.distric{
+    background-color: #67c8a2;
+    border:3px solid #1a1482;
+    color: #fff;
+    margin:20px;
+    padding: 15px;
+    border-radius: 12px;
+}
+.btn{
+    padding:6px 20px;
+    border-radius: 5px ;
+    background-color:#117a50;
+    color:#fff;
+}
